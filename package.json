@@ -1,5 +1,5 @@
 {
-  "name": "sprinting.js",
+  "name": "sprinting",
   "version": "0.1.0",
   "description": "a running race between functions",
   "main": "index.js",
