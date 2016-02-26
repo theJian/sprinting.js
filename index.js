@@ -24,7 +24,7 @@ module.exports = function() {
   result.sort((a, b) => {
     // a doesn't finish this race if a.Time is -1
     if(-1 === b.Time) return -1;
-    return b.Time - a.Time;
+    return a.Time - b.Time;
   });
 
   for(let i = 0, len = result.length; i < len; i++) {
