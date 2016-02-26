@@ -1,0 +1,22 @@
+{
+  "name": "sprinting.js",
+  "version": "0.1.0",
+  "description": "a running race between functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJian/sprinting.js.git"
+  },
+  "keywords": [
+    "sprinting.js"
+  ],
+  "author": "theJian",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/theJian/sprinting.js/issues"
+  },
+  "homepage": "https://github.com/theJian/sprinting.js#readme"
+}
